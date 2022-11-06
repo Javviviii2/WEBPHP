@@ -1,0 +1,25 @@
+.grid {
+   display: grid;
+}
+.hero {
+   border: 1px solid black;
+}
+.hero_img {
+   border: 1px solid black;
+   height: 400px;
+   width: 40%;
+   border-radius: 20px;
+   margin-top: 3%;
+   background-image: url('./img/hero.png');
+   background-repeat: no-repeat;
+   float: right;
+}
+.hero_text{
+   border: 1px solid black;
+   text-align: center;
+   width: 40%;
+}
+q {
+   font-size: 30px;
+   font-style: oblique;
+}
